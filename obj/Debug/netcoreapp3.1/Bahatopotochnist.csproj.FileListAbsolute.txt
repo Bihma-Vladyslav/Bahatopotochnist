@@ -1,0 +1,14 @@
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\bin\Debug\netcoreapp3.1\Bahatopotochnist.exe
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\bin\Debug\netcoreapp3.1\Bahatopotochnist.deps.json
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\bin\Debug\netcoreapp3.1\Bahatopotochnist.runtimeconfig.json
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\bin\Debug\netcoreapp3.1\Bahatopotochnist.runtimeconfig.dev.json
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\bin\Debug\netcoreapp3.1\Bahatopotochnist.dll
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\bin\Debug\netcoreapp3.1\Bahatopotochnist.pdb
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.AssemblyInfoInputs.cache
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.AssemblyInfo.cs
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.dll
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.pdb
+D:\Visual Studio расположение\source\repos\Bahatopotochnist\Bahatopotochnist\obj\Debug\netcoreapp3.1\Bahatopotochnist.genruntimeconfig.cache
